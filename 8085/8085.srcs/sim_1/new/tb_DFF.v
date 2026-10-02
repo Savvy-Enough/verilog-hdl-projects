@@ -1,5 +1,33 @@
 `timescale 1ns / 1ps
 
+//////////////////////////////////////////////////////////////////////////////////
+// Module: D_ff_tb
+// Project: 8085-compatible CPU
+//
+// Description:
+// Behavioral testbench for the D_ff module.
+//
+// The testbench verifies:
+//   - Synchronous active-high reset
+//   - Data capture when enable is asserted
+//   - Hold behavior when enable is deasserted
+//   - Correct QNOT operation
+//
+// Testbench Inputs:
+//   CLK - Clock signal
+//   RST - Synchronous active-high reset
+//   EN  - Clock enable
+//   D   - Data input
+//
+// Testbench Outputs:
+//   Q    - Flip-flop output
+//   QNOT - Complement of Q
+//
+// Notes:
+// This module is used for simulation and verification only.
+// It is not synthesized into FPGA hardware.
+//////////////////////////////////////////////////////////////////////////////////
+
 module tb_DFF;
 
     reg clk;
