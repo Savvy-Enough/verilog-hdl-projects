@@ -1,0 +1,38 @@
+# ==========================================
+# Vivado generated project/build artifacts
+# ==========================================
+
+# Vivado generated directories
+**/.Xil/
+**/*.cache/
+**/*.hw/
+**/*.ip_user_files/
+**/*.runs/
+**/*.sim/
+**/*.gen/
+
+# Simulation/build generated files
+*.jou
+*.log
+*.str
+*.debug
+*.pb
+*.dcp
+
+# Simulation dumps
+*.wdb
+*.vcd
+
+# Generated bitstream / programming files
+*.bit
+*.bin
+*.mcs
+*.ltx
+
+# Vivado temporary files
+*.tmp
+*.backup.*
+
+# WebTalk / usage data
+webtalk.*
+usage_statistics_webtalk.*
