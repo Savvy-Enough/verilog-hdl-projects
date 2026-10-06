@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="SUPER_REG_BLOCK_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="SUPER_REG_BLOCK_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="40.134 ns"></ZoomEndTime>
+      <Cursor1Time time="90.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="108"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/Data" type="array">
+      <obj_property name="ElementShortName">Data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/enA" type="logic">
+      <obj_property name="ElementShortName">enA</obj_property>
+      <obj_property name="ObjectShortName">enA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/enB" type="logic">
+      <obj_property name="ElementShortName">enB</obj_property>
+      <obj_property name="ObjectShortName">enB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/enC" type="logic">
+      <obj_property name="ElementShortName">enC</obj_property>
+      <obj_property name="ObjectShortName">enC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/enD" type="logic">
+      <obj_property name="ElementShortName">enD</obj_property>
+      <obj_property name="ObjectShortName">enD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/enE" type="logic">
+      <obj_property name="ElementShortName">enE</obj_property>
+      <obj_property name="ObjectShortName">enE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/enH" type="logic">
+      <obj_property name="ElementShortName">enH</obj_property>
+      <obj_property name="ObjectShortName">enH</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/enL" type="logic">
+      <obj_property name="ElementShortName">enL</obj_property>
+      <obj_property name="ObjectShortName">enL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/A" type="array">
+      <obj_property name="ElementShortName">A[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/B" type="array">
+      <obj_property name="ElementShortName">B[7:0]</obj_property>
+      <obj_property name="ObjectShortName">B[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/C" type="array">
+      <obj_property name="ElementShortName">C[7:0]</obj_property>
+      <obj_property name="ObjectShortName">C[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/D" type="array">
+      <obj_property name="ElementShortName">D[7:0]</obj_property>
+      <obj_property name="ObjectShortName">D[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/E" type="array">
+      <obj_property name="ElementShortName">E[7:0]</obj_property>
+      <obj_property name="ObjectShortName">E[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/H" type="array">
+      <obj_property name="ElementShortName">H[7:0]</obj_property>
+      <obj_property name="ObjectShortName">H[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SUPER_REG_BLOCK_tb/L" type="array">
+      <obj_property name="ElementShortName">L[7:0]</obj_property>
+      <obj_property name="ObjectShortName">L[7:0]</obj_property>
+   </wvobject>
+</wave_config>
